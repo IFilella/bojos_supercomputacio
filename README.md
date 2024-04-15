@@ -19,15 +19,6 @@
 * Link to the [Quizs]()
 
 ### Schedule
-9:30 Presentació
-9:45 PART TEÒRICA: Les Proteïnes
-10:45 QUIZ: Proteïnes
-11:15 20 min break (esmorzar)
-11:35 PART TEÒRICA: Drug Design
-12:35 QUIZ: Drug Design
-12:45 10 min break
-13:00 PART PRÀCTICA I: Test MRTX1133 ligand docking
-
 <table>
   <tr>
     <td>9:30</td>
@@ -46,5 +37,25 @@
     <tr>
     <td>11:15</td>
     <td>20 min break (esmorzar)</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>11:35</td>
+    <td>PART TEÒRICA: Drug Design</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>11:15</td>
+    <td>QUIZ: Drug Design</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>11:15</td>
+    <td>10 min break</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>13:00</td>
+    <td>PART PRÀCTICA I: Test MRTX1133 ligand docking</td>
   </tr>
 </table>
