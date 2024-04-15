@@ -16,7 +16,9 @@
 
 * Link to the [collab](https://colab.research.google.com/drive/1tdGtmKn16L-Duwb2JSLd-cxJfRoliX9f?pli=1#scrollTo=Sa8zkn4NlfOs) with the practical session
 
-* Link to the [Quizs]()
+* Link to the [Protein Quiz](https://quizizz.com/admin/quiz/6618ead6b8cce5236d7c1f76?source=quiz_share)
+
+* Link to the [Drug Design Quiz](https://quizizz.com/admin/quiz/661910f62bc92f3a127ceff3?source=quiz_share)
 
 ### Schedule
 <table>
